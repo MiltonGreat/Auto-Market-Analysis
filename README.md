@@ -40,8 +40,6 @@ Below is a preview of the dashboard created for this project:
 3. Use slicers to filter data by region, manufacturer, or year.
 4. Analyze trends, KPIs, and performance metrics to identify opportunities in the European automotive market.
 
-## Author
-Developed by [Your Name]. Feel free to reach out with questions or feedback!
+## Source
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+https://youtu.be/HUJS2JBscDc?si=J0hVczvOtRa7yz_7
