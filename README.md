@@ -25,8 +25,7 @@ The dashboard includes the following:
 
 ## Screenshot
 Below is a preview of the dashboard created for this project:
-
-![Automotive Dashboard](Automotive_Dashboard.png)
+![Automative_Dashboard](https://github.com/user-attachments/assets/80a4b4d0-d37e-4509-a48f-eef097d74a50)
 
 ## Tools and Techniques
 - **Microsoft Excel:** For data cleaning, preparation, and dashboard design.
