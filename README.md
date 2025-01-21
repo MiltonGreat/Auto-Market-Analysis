@@ -4,6 +4,11 @@
 
 This project demonstrates the creation of an interactive Excel dashboard to analyze trends and performance in the European automotive market. By leveraging Excel's features such as pivot tables, pivot charts, and slicers, the dashboard provides stakeholders with insights into vehicle sales trends and market opportunities.
 
+## Screenshot
+Below is a preview of the dashboard created for this project:
+
+![Automative_Dashboard](https://github.com/user-attachments/assets/80a4b4d0-d37e-4509-a48f-eef097d74a50)
+
 ## Why This Project Matters
 This project helped me to understand how to use Excel to create a professional and interactive dashboard. It highlights key techniques that enable business stakeholders to make informed decisions by:
 - Simplifying complex datasets.
@@ -22,11 +27,6 @@ The dashboard includes the following:
 - **Trends Analysis:** Monitor vehicle sales over time and identify seasonal patterns.
 - **Performance Metrics:** Evaluate market performance based on key attributes such as region and vehicle type.
 - **Interactive Visuals:** Explore data dynamically through slicers, enabling stakeholders to filter by year, manufacturer, or country.
-
-## Screenshot
-Below is a preview of the dashboard created for this project:
-
-![Automative_Dashboard](https://github.com/user-attachments/assets/80a4b4d0-d37e-4509-a48f-eef097d74a50)
 
 ## Tools and Techniques
 - **Microsoft Excel:** For data cleaning, preparation, and dashboard design.
